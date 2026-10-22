@@ -8,3 +8,5 @@ This is my workshop. I build things here because I'm curious, because I need the
 - Projects I made while learning something new
 
 Most of it gets shared with friends, so feel free to poke around, borrow ideas, or tell me something's broken.
+
+**When I'm not coding**, I'm proudly mediocre at snowboarding, mountain biking, surfing, golf, spearfishing, lobstering, and rock climbing.
