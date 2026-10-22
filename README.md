@@ -4,8 +4,8 @@ This is my workshop. I build things here because I'm curious, because I need the
 
 **What you'll find**
 - Tools that fix small, annoying problems
-- Games and weird experiments
-- Projects I made while learning something new
+- Games and random experiments
+- Snow and surf reports so I can catch 0 waves
 
 Most of it gets shared with friends, so feel free to poke around, borrow ideas, or tell me something's broken.
 
